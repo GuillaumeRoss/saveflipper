@@ -1,0 +1,33 @@
+baseurl = "https://saveflipper.ca/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "pink"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+  showLastUpdated = false
+
+[languages]
+  [languages.en]
+    title = "Save Flipper"
+    subtitle = ""
+    keywords = ""
+    copyright = "©Creative Commons"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "SaveFlipper.ca"
+      logoHomeLink = "/"
+
