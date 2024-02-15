@@ -69,5 +69,9 @@ Il était une fois, dans une cuisine pas si lointaine, un cuisinier aventureux q
 5. Une fois les spaghettis parfaitement al dente, gardez une tasse d'eau de cuisson des pâtes pour des fins magiques de
 
 
+## Signatures
+If you agree with this letter, please [sign it](https://linktotheform.potato) and share it.
 
+Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://lienversleformulaire.petate) et la partager.
 
+Joe Bob, CEO, EpicAmazing Security
