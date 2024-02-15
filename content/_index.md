@@ -11,6 +11,7 @@ description = "Vehicle thefts - insecure vehicles should be enemy #1, not securi
 ## Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the FlipperZero
 
 [Version française](#version-française)
+[Sign](#signatures)
 
 ## Spaghetti Carbonara with a Twist
 
@@ -79,3 +80,7 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Name/Nom       | Title/Titre             |
 | :------------: | :---------------------: | 
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
+
+
+
+## Privacy Policy / Vie Privée
