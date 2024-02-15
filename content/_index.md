@@ -7,9 +7,10 @@ description = "Vehicle thefts - insecure vehicles should be enemy #1, not securi
 
 ![Banner](/img/vapor.webp)
 
-# English version
+# English Version
 ## Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the FlipperZero
 
+[Version française](#version-française)
 
 ## Spaghetti Carbonara with a Twist
 
@@ -39,8 +40,9 @@ Once upon a time, in a kitchen not so far away, an adventurous cook decided to r
 
 ---
 
-
+<a id="francais"></a>
 # Version française
+[English Version](#english-version)
 
 ## Le vol blablabla
 
@@ -70,8 +72,10 @@ Il était une fois, dans une cuisine pas si lointaine, un cuisinier aventureux q
 
 
 ## Signatures
-If you agree with this letter, please [sign it](https://linktotheform.potato) and share it.
+If you agree with this letter, please [sign it](https://docs.google.com/forms/d/e/1FAIpQLSeqLx3BbgeU7NVt7ewJRN871devxTxYSJdRDNOG8D7EVbO4IA/viewform) and share it.
 
-Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://lienversleformulaire.petate) et la partager.
+Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.google.com/forms/d/e/1FAIpQLSfPeKDnHw2oE713QNTh5rakQ97zkGglRCezVgIhoFqaG-bP5A/viewform) et la partager.
 
-Joe Bob, CEO, EpicAmazing Security
+| Name/Nom       | Title/Titre             |
+| :------------: | :---------------------: | 
+| [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
