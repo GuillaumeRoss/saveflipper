@@ -1,8 +1,15 @@
 +++
+[en]
 title = "Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the FlipperZero"
-date = "2023-05-29"
-author = "Guillaume Ross"
 description = "Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the FlipperZero."
+
+[fr]
+title = "Vols de véhicules - les véhicules non sécurisés devraient être l'ennemi numéro un, pas les outils de sécurité comme le FlipperZero"
+description = "Les vols de véhicules - les véhicules non sécurisés devraient être l'ennemi numéro un, pas les outils de sécurité comme le FlipperZero."
+
+date = "2024-02-15"
+author = "Guillaume Ross & Pierre-David Oriol"
+image = "img/vapor.webp"
 +++
 
 ![Banner](/img/vapor.webp)
