@@ -14,7 +14,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Save Flipper"
-    subtitle = ""
+    subtitle = "Security research tools should be encouraged, not prohibited. Obscurity is not security."
     keywords = ""
     copyright = "©Creative Commons"
     menuMore = "Show more"
