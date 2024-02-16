@@ -74,12 +74,37 @@ If you agree with this letter, please [sign it](https://docs.google.com/forms/d/
 
 Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.google.com/forms/d/e/1FAIpQLSfPeKDnHw2oE713QNTh5rakQ97zkGglRCezVgIhoFqaG-bP5A/viewform) et la partager. Les signatures sont ajoutées au site manuellement, environ une fois par jour.
 
-| Name/Nom       | Title/Titre             |
-| :------------: | :---------------------: | 
+| Name/Nom                    | Title/Titre                                        |
+| --------------------------- | -------------------------------------------------- |
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
 | [Pierre-David Oriol](https://www.linkedin.com/in/pierredavidoriol/) | Cybersecurity Product Executive |
 | Nelson Lamoureux | School principal & CISO CSSMCN | 
-
+| Axel Schulz                 | Director Cybersecurity Operations                  |
+| [Émilio Gonzalez](https://infosec.exchange/@res260)             | Cybersecurity Professional                         |
+| [Simon Carpentier](https://spacebar.ca/)            | Information Security Principal @ Desjardins        |
+| [Dr. Alexander Dean Cybulski](http://adcybulski.com) | Security Awareness Professional - Utilities Sector |
+| [Patrick Mathieu](https://www.linkedin.com/in/patrickrmathieu/)             | President, Hackfest Communication                  |
+| Nicholas Romyn              | Security Architect                                 |
+| [Sivathmican Sivakumaran](https://www.linkedin.com/in/sivathmican-sivakumaran-36127647/)     |                                                    |
+| [Mike Lizotte](https://www.linkedin.com/in/neohqc/)                | Offensive Security Consultant                      |
+| [Laurent Chouinard](https://www.linkedin.com/in/laurentchouinard/)           |                                                    |
+| dystopie                    |                                                    |
+| [Eric Hogue](https://erichogue.ca/)                  |                                                    |
+| James Arlen                 |                                                    |
+| Fernando Montenegro         | Cybersecurity Industry Analyst                     |
+| Jean-Sébastien Delorme      | NorthSec - VP Training                             |
+| [Adam Anklewicz](https://www.linkedin.com/in/ankle/)              | Manager, IT Endpoint Engineering                   |
+| Tim Fitzgerald              | Manager of IT Systems                              |
+| Sean                        |                                                    |
+| Charles Ferguson            |                                                    |
+| Rahul                       |                                                    |
+| [Nathan Beranger](https://www.linkedin.com/in/nathanberanger/)             | Sr. IT Professional                                |
+| Guillaume Morissette  | Guillaume Morissette           |
+| Philippe M.           | Technical Solutions Architect  |
+| Sylvain P             |                                |
+| Pierrick Vittet       | Analyste en cybersécurité      |
+| TUX                   |                                |
+| Laurent Desaulniers   |                                |
 
 {{< goatcounter >}}
 
