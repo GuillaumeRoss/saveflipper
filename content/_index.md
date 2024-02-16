@@ -14,13 +14,13 @@ image = "img/vapor.webp"
 
 ![Banner](/img/vapor.webp)
 
+# [Version française en bas](#version-française)
 # English Version
 ## Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the Flipper Zero
 [Sign](https://docs.google.com/forms/d/e/1FAIpQLSeqLx3BbgeU7NVt7ewJRN871devxTxYSJdRDNOG8D7EVbO4IA/viewform)
 
 [Find and contact your MP](https://www.ourcommons.ca/Members/en/search)
 
-[Version française](#version-française)
 
 Vehicle theft is an issue that affects us all collectively. As cybersecurity and technology professionals, we recognize the importance of acting rapidly to reduce its impact on Canadians. That being said, we believe the federal government’s [proposal](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html), particularly the prohibition of security research tools, is ill-advised, overbroad and most importantly, will be counterproductive.
 
@@ -42,13 +42,12 @@ Because of the arbitrary nature of such a policy, we believe the judiciary syste
 
 ---
 
+# [English version above](#english-version)
 <a id="francais"></a>
 # Version française
 [Signer](https://docs.google.com/forms/d/e/1FAIpQLSfPeKDnHw2oE713QNTh5rakQ97zkGglRCezVgIhoFqaG-bP5A/viewform)
 
 [Trouver et contacter votre député](https://www.ourcommons.ca/Members/fr/search)
-
-[English Version](#english-version)
 
 ## Vols de véhicules - les véhicules non sécurisés devraient être l'ennemi n°1, pas les outils de sécurité comme le Flipper Zero
 
