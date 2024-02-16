@@ -78,6 +78,7 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | --------------------------- | -------------------------------------------------- |
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
 | [Pierre-David Oriol](https://www.linkedin.com/in/pierredavidoriol/) | Cybersecurity Product Executive |
+| [Gabriel Tremblay](https://www.linkedin.com/in/gabriel-tremblay-mtl/) | CEO |
 | Nelson Lamoureux | School principal & CISO CSSMCN | 
 | Axel Schulz                 | Director Cybersecurity Operations                  |
 | [Émilio Gonzalez](https://infosec.exchange/@res260)             | Cybersecurity Professional                         |
