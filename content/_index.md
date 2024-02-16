@@ -79,6 +79,7 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | :------------: | :---------------------: | 
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
 | Pierre-David Oriol | |
+| Nelson Lamoureux | School principal & CISO CSSMCN | 
 
 
 {{< goatcounter >}}
