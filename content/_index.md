@@ -38,7 +38,7 @@ Additionally, with bills such as [C-244](https://www.parl.ca/legisinfo/en/bill/4
 
 ## Finally, we believe this policy represents a waste of judiciary resources that could be better used to collaborate with experts from the cybersecurity industry to identify ways to prevent and deter such crimes
 
-Because of the arbitrary nature of such a policy, we believe the judiciary system will be faced with a slew of litigious cases around the many uses of these security tools. Instead, these resources could be focused on creating constructive communication channels between cybersecurity experts, car manufacturers, insurers, and the judiciary system to identify ways to improve the security of automotive keyless entry and push-to-start systems, and enforce minimal levels of security for future products, while benefiting from increased sales as stolen cars are replaced.
+Because of the arbitrary nature of such a policy, we believe the judiciary system will be faced with a slew of litigious cases around the many uses of these security tools. Instead, these resources could be focused on creating constructive communication channels between cybersecurity experts, car manufacturers, insurers, and the judiciary system to identify ways to improve the security of automotive keyless entry and push-to-start systems, and enforce minimal levels of security for future products, as it is the case in other industries.
 
 ---
 
@@ -67,7 +67,7 @@ De plus, avec des projets de loi tels que [C-244](https://www.parl.ca/legisinfo/
 
 ## Enfin, nous croyons que cette politique représente un gaspillage de ressources judiciaires qui pourraient être mieux utilisées pour collaborer avec des experts de l'industrie de la cybersécurité afin d'identifier des moyens de prévenir et de dissuader de tels crimes
 
-En raison de la nature arbitraire d'une telle politique, nous croyons que le système judiciaire sera confronté à une multitude de cas litigieux concernant les nombreuses utilisations de ces outils de sécurité. Au lieu de cela, ces ressources pourraient être concentrées sur la création de canaux de communication constructifs entre les experts en cybersécurité, les fabricants de voitures, les assureurs et le système judiciaire pour identifier des moyens d'améliorer la sécurité des systèmes d'entrée sans clé et de démarrage par bouton-poussoir des automobiles, et imposer des niveaux de sécurité minimaux pour les futurs produits, tout en bénéficiant de ventes augmentées par le remplacement des véhicules volés.
+En raison de la nature arbitraire d'une telle politique, nous croyons que le système judiciaire sera confronté à une multitude de cas litigieux concernant les nombreuses utilisations de ces outils de sécurité. Au lieu de cela, ces ressources pourraient être concentrées sur la création de canaux de communication constructifs entre les experts en cybersécurité, les fabricants de voitures, les assureurs et le système judiciaire pour identifier des moyens d'améliorer la sécurité des systèmes d'entrée sans clé et de démarrage par bouton-poussoir des automobiles, et imposer des niveaux de sécurité minimaux pour les futurs produits, comme c'est le cas dans d'autres industries.
 
 ## Signatures
 If you agree with this letter, please [sign it](https://docs.google.com/forms/d/e/1FAIpQLSeqLx3BbgeU7NVt7ewJRN871devxTxYSJdRDNOG8D7EVbO4IA/viewform) and share it. Signatures are added to the site roughly once a day, manually.
