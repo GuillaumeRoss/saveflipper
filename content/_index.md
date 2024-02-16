@@ -26,7 +26,7 @@ Vehicle theft is an issue that affects us all collectively. As cybersecurity and
 
 > Innovation, Science and Economic Development Canada (ISED) will pursue all avenues to ban devices used to steal vehicles by copying the wireless signals for remote keyless entry, such as the Flipper Zero, which would allow for the removal of those devices from the Canadian marketplace through collaboration with law enforcement agencies.
 
-## We believe this policy will not work because the policy rests on a misunderstanding of the underlying technology
+## We believe this policy will not work because it rests on a misunderstanding of the underlying technology
 
 This policy is based on outdated and misinformed technological assumptions, making it unfeasible to implement and enforce. Security tools like Flipper Zero are essentially programmable radios, known as Software Defined Radios (SDRs), a technology which has  existed for years, and in some cases can be built using open-source or simple over-the-shelf-components. These radios are also fundamentally the same as those used in numerous devices across various sectors, including smart household appliances, drones and aerospace technologies, mobile phones and networks, as well as industrial control systems. Consequently, prohibiting such functionality is virtually impossible and could stifle the Canadian economy significantly.
 
