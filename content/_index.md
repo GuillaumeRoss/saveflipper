@@ -9,9 +9,9 @@ description = "Vehicle thefts - insecure vehicles should be enemy #1, not securi
 
 # English Version
 ## Vehicle thefts - insecure vehicles should be enemy #1, not security tools like the FlipperZero
+[Sign](https://docs.google.com/forms/d/e/1FAIpQLSeqLx3BbgeU7NVt7ewJRN871devxTxYSJdRDNOG8D7EVbO4IA/viewform)
 
 [Version française](#version-française)
-[Sign](#signatures)
 
 ## Spaghetti Carbonara with a Twist
 
@@ -43,6 +43,8 @@ Once upon a time, in a kitchen not so far away, an adventurous cook decided to r
 
 <a id="francais"></a>
 # Version française
+[Signer](https://docs.google.com/forms/d/e/1FAIpQLSfPeKDnHw2oE713QNTh5rakQ97zkGglRCezVgIhoFqaG-bP5A/viewform)
+
 [English Version](#english-version)
 
 ## Le vol blablabla
@@ -80,7 +82,3 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Name/Nom       | Title/Titre             |
 | :------------: | :---------------------: | 
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
-
-
-
-## Privacy Policy / Vie Privée
