@@ -82,3 +82,6 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Name/Nom       | Title/Titre             |
 | :------------: | :---------------------: | 
 | [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
+
+
+{{< goatcounter >}}
