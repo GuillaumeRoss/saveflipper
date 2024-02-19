@@ -76,8 +76,8 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 
 | Name/Nom                    | Title/Titre                                        |
 | --------------------------- | -------------------------------------------------- |
-| [Guillaume Ross](https://www.linkedin.com/in/guillaumeross/) | Deputy CISO, JupiterOne |
-| [Pierre-David Oriol](https://www.linkedin.com/in/pierredavidoriol/) | Cybersecurity Product Executive |
+| **[Guillaume Ross](https://www.linkedin.com/in/guillaumeross/)** | Deputy CISO, JupiterOne |
+| **[Pierre-David Oriol](https://www.linkedin.com/in/pierredavidoriol/)** | Cybersecurity Product Executive |
 | [Gabriel Tremblay](https://www.linkedin.com/in/gabriel-tremblay-mtl/) | Cybersecurity CEO |
 | Nelson Lamoureux | School principal & CISO CSSMCN | 
 | Axel Schulz                 | Director Cybersecurity Operations                  |
@@ -106,6 +106,28 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Pierrick Vittet       | Analyste en cybersécurité      |
 | TUX                   |                                |
 | Laurent Desaulniers   |                                |
+| Mat X                    |                                                                              |
+| Brad Clare               | IT Consultant                                                                |
+| Garth Boyd               | Security Architect                                                           |
+| Serge-Olivier Paquette   | Director of Innovation                                                       |
+| Dmitriy Beryoza          | Senior Security Researcher                                                   |
+| [Simon Nolet](https://x.com/ViperBlackSkull)              | Testeur d'intrusion transversaux                                             |
+| Colin Stéphenne          | Cybersecurity specialist                                                     |
+| [Pavel Sushko](https://www.linkedin.com/in/pavel-sushko)             | Chief Executive Officer                                                      |
+| Mandeep                  |                                                                              |
+| Felipe Sáez              | Security Engineer                                                            |
+| [Clayton Smith](https://mastodon.online/@argilo)            | Security researcher                                                          |
+| salt                     | Analyste en sécurité informatique                                            |
+| [Simon Décosse](https://www.linkedin.com/in/simon-d%C3%A9cosse-b17009238/)            | Team Lead Ethical Hacker                                                     |
+| [Eric Beaurivage](https://www.linkedin.com/in/ericbeaurivage/)          | Administrateur de systèmes et réseaux                                        |
+| [Alexandre Côté](https://todon.eu/@barberousse_bin)           | Security Researcher                                                          |
+| Michael Jeanson          |                                                                              |
+| Lex Gill                 | Avocate                                                                      |
+| Etienne Prud'homme       |                                                                              |
+| [Eric Hebert](https://www.linkedin.com/in/erichebert/)              | Information Security Professional                                            |
+| [Patricia Gagnon-Renaud](https://www.linkedin.com/in/pgrenaud/)   | Cybersecurity Analyst                                                        |
+| Antoine Gauthier-Drapeau | Analyste en cybersécurité                                                    |
+| Sébastien Duquette       | Director of Software Development, ex-Application Security Lead @ Devolutions |
 
 {{< goatcounter >}}
 
