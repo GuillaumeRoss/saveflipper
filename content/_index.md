@@ -128,6 +128,87 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | [Patricia Gagnon-Renaud](https://www.linkedin.com/in/pgrenaud/)   | Cybersecurity Analyst                                                        |
 | Antoine Gauthier-Drapeau | Analyste en cybersécurité                                                    |
 | Sébastien Duquette       | Director of Software Development, ex-Application Security Lead @ Devolutions |
+| [Cyndie Feltz](https://www.linkedin.com/in/cyndie-feltz)               | Co-founder                                                                        |
+| [Jacob Diamond](https://www.linkedin.com/in/jacob97/)              | Pentester                                                                         |
+| [Mark Cohen](https://www.linkedin.com/in/mark-cohen/)                 | CIO                                                                               |
+| Adrian Christie            |                                                                                   |
+| [Francis Coats](https://www.linkedin.com/in/mark-cohen/)              | Expert en sécurité                                                                |
+| Louis Nadeau               |                                                                                   |
+| Martin D                   |                                                                                   |
+| Maxime Paradis             | Analyste Technique                                                                |
+| Régis Belarbi              |                                                                                   |
+| Simon Loiselle             | Lead security advisor                                                             |
+| [Simon Charest](https://www.linkedin.com/in/simoncharest/)              | Senior Software Developer and CEO at SLCIT                                        |
+| [Andrew Bellini](https://andrewbellini.com)             | Author of Beginner's Guide to IoT and Hardware Hacking                            |
+| V Daniel                   | Account executive                                                                 |
+| Eric C.                    |                                                                                   |
+| Alex Kozin                 |                                                                                   |
+| Alexandre Blanc            | strategical and security advisor                                                  |
+| Free Spirit                | Bitcoin miner                                                                     |
+| Felix Doyon                | DevOps Engineer                                                                   |
+| Alec Barea                 | Global information security director                                              |
+| Vaidotas Brazauskas        |                                                                                   |
+| Tom Ewan                   |                                                                                   |
+| Alexis D.                  |                                                                                   |
+| Eugene Grant               | Security Principal TEC Ops                                                        |
+| Mitch M                    |                                                                                   |
+| Denis Lessard              |                                                                                   |
+| David Guerin               |                                                                                   |
+| Pier-Luc Moisan            |                                                                                   |
+| Lee Brotherston            | Infosec Rando                                                                     |
+| [Étienne Lévesque](https://ca.linkedin.com/in/etiennel2)           | Développeur web                                                                   |
+| Gaspar-Sec                 | CyberSecurity Analyst                                                             |
+| Jean-François              |                                                                                   |
+| Kenneth Gallagher          |                                                                                   |
+| Bruno Morel                |                                                                                   |
+| [Cid Summers](https://infosec.exchange/slayerette)                |                                                                                   |
+| Reda Baydoun               | Sr. Principal Software Dev., CISSP                                                |
+| Marc-Antoine Chabot        | Technology expert, ECCC                                                           |
+| Sergey Faleev              | Senior IT manager                                                                 |
+| [Neumann lim](https://infosec.exchange/cybersyrup)                   |                                                                                   |
+| [Marc-Etienne M.Léveillé](https://twitter.com/marc_etienne_)    | Chercheur en logiciels malveillants                                               |
+| [Olivier Bilodeau](https://www.linkedin.com/in/olivierbilodeau/)           | Président de NorthSec et Directeur de la recherche en cybersécurité chez GoSecure |
+| Benjamin Courchesne        |                                                                                   |
+| [Alexandre Larocque, P.Eng.](https://ardent-security.com/en/blog/) | CEO @ Ardent Security                                                             |
+| [Samuel A.](https://www.linkedin.com/in/samuel-aubert/)                  | Application Security Analyst I                                                    |
+| Frédéric Fortin            | Président, iconnek.io                                                             |
+| Marc Ouellet               |                                                                                   |
+| J. Fournier                |                                                                                   |
+| Auré                       | Serrurière                                                                        |
+| [Ben Renaud](https://www.linkedin.com/in/renaudbenoit/)                 | Director, Cybersecurity, PetalMD                                                  |
+| [Vincent Le Hémonet](https://www.linkedin.com/in/vlehemonet)         | Consultant sécurité réseau                                                        |
+| C G                        | Cybersecurity specialist                                                          |
+| [Mathieu Hetu](https://www.linkedin.com/in/mathieu-hetu-30359853)               | CEO - MH Service Technologies                                                     |
+| Maxim Chartrand            | Chef d'entreprise, GTI Télécoms                                                   |
+| Maxime Labrecque-Raymond   | Conseiller en cybersecurité                                                       |
+| Cedric Thibault            | Partner & CTO                                                                     |
+| Max Wot                    |                                                                                   |
+| Jean Rho                   | Integrateur, système de sécurité                                                  |
+| Jean-Michel V              |                                                                                   |
+| Charles-Etienne Crevier    |                                                                                   |
+| [Steve Waterhouse](https://www.linkedin.com/in/cyberstevewater)           | Professionnel en Sécurité de l'Information                                        |
+| [Fabrice Delor](https://www.linkedin.com/in/fabrice-delor?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)              | Cybersecurity Architect                                                           |
+| Vincent lambert            |                                                                                   |
+| Molon Labe                 |                                                                                   |
+| [Gabriel Longpré](https://www.linkedin.com/in/gabriel-longpre/)            | Analyste Sécurité & Réseau                                                        |
+| Marvens Decayette          | Security analyst                                                                  |
+| Werner Burat               | Technical Solutions Consultant                                                    |
+| Flaster Jedd               | Offensive security consultant                                                     |
+| [Nicholas Milot](https://www.linkedin.com/in/nicholas-m-99739390)             | Co-Founder @Yack                                                                  |
+| Bernard Bolduc             | Conseiller en Cyber Sécurité                                                      |
+| Caido                      | Co-fondateur                                                                      |
+| Marc-André Dumont          | Cybersecurity Team Lead                                                           |
+| Philippe L                 | Cybersécurité opérationnelle                                                      |
+| Philippe Hamel             |                                                                                   |
+| [Pascal Fortin](http://www.cybereco.ca)              | PDG - Cybereco                                                                    |
+| Guillaume Raymond          |                                                                                   |
+| Patrick Davidson Tremblay  | Directeur, Sécurité offensive, Simulation d'adversaires                           |
+| Steve Lavoie               | Directeur TI, CISSP                                                               |
+| Stephane Pelletier         | Application Security Analyst                                                      |
+| Émilien Pierru             | Backend developer                                                                 |
+| Guillaume Nourry-Marquis   | Président Commit2Security Inc.                                                    |
+| Antoine Reversat           |                                                                                   |
+| [Maxime Carbonneau](https://www.linkedin.com/in/maxime-carbonneau-781516b5/)          | Cybersecurity Professional                                                        |
 
 {{< goatcounter >}}
 
