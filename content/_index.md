@@ -209,6 +209,109 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Guillaume Nourry-Marquis   | Président Commit2Security Inc.                                                    |
 | Antoine Reversat           |                                                                                   |
 | [Maxime Carbonneau](https://www.linkedin.com/in/maxime-carbonneau-781516b5/)          | Cybersecurity Professional                                                        |
+| Derek W.                          | Infosec Dude & Flipper Zero User                                                                         |
+| Marc                              |                                                                                                          |
+| Kastelo Caron                     |                                                                                                          |
+| Simon Clavet                      | Programmer                                                                                               |
+| [Sébastien Graveline](https://www.linkedin.com/in/s%C3%A9bastien-graveline-328082204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)               |                                                                                                          |
+| Sébastien Massé-Croteau           |                                                                                                          |
+| Jason M.                          | Cybersecurity consultant                                                                                 |
+| Danny Fullerton                   | CISO, VP                                                                                                 |
+| Olivier Dion                      |                                                                                                          |
+| [Sébastien Huneault](https://www.linkedin.com/in/s%C3%A9bastien-huneault-1b1622255)                | Enseignant en Informatique                                                                               |
+| [anarcat](https://anarc.at/)                           |                                                                                                          |
+| Sonia Fath                        |                                                                                                          |
+| Alexandre Boyer                   | Lead info sec engineer                                                                                   |
+| Amandine Gagnon-Hébert            | Associate Red Team Consultant - Mandiant, VP Engagement @NorthSec, prévention des méfaits > coercition   |
+| [Justin Brulotte](http://justinbrulotte.com)                   | Senior AI Developper                                                                                     |
+| Fred Quenneville                  | Ethical Hacker                                                                                           |
+| Dominique                         |                                                                                                          |
+| Trevor hough (loudmouth security) | CSO                                                                                                      |
+| Martin Léger                      | Sysadmin                                                                                                 |
+| Olivier Michaud                   | Technicien en TI                                                                                         |
+| Yvan Beaulieu PhD                 | Conseiller senior en sécurité de l'information                                                           |
+| Justin Lavoie                     |                                                                                                          |
+| Philippe Panaite           | Lead System Administrator                                                                                            |
+| Marc                       | Cybersecurity consultant                                                                                             |
+| Mark                       |                                                                                                                      |
+| Saïd Izawi                 | Security Solutions Architect                                                                                         |
+| Dany Boivin                | FlippingForFlipper                                                                                                   |
+| [Jason Keirstead](https://linkedin.com/in/jasonkeirstead)            |                                                                                                                      |
+| [LG Nobre](http://hellnia.com)                   | Cybersecurity professional                                                                                           |
+| [Adam Shostack](https://shostack.org)              | Author, Threat modeling: Designing for Security                                                                      |
+| Yohannes Aberacht          |                                                                                                                      |
+| [Marc Lefrancois](https://twitter.com/marclefrancois)            | Lead Developer                                                                                                       |
+| Jeremy Aube                |                                                                                                                      |
+| [Eric M. Gagnon](https://www.linkedin.com/in/ericmgagnon/)             | Chef D'équipe, Simulation d'adversaires                                                                              |
+| Daniel Drouet              | Tech investor and entrepreneur                                                                                       |
+| Tim Partridge              | Senior Security Architect - IBM Canada LTD                                                                           |
+| Oley V                     |                                                                                                                      |
+| Mathieu Saulnier           |                                                                                                                      |
+| Ross Derewianko            | Senior Staff Systems Eingeer                                                                                         |
+| Alexandre A.               |                                                                                                                      |
+| Rob Wood                   | Founder                                                                                                              |
+| Anne Katherine             |                                                                                                                      |
+| [Jason Ernst](https://www.linkedin.com/in/jasonbernst/)                | Principal Software Engineer, PhD Wireless Mesh Networks                                                              |
+| Alexandre Guédon           | Cybersecurity Professional                                                                                           |
+| Tom Gwozdz                 |                                                                                                                      |
+| Lee Nichols                |                                                                                                                      |
+| Will Whittaker             |                                                                                                                      |
+| [Samer Essa](http://linkedin.com/in/samer-essa)                 | Information Security Manager                                                                                         |
+| Nicholas St-Jacques        | Mr.                                                                                                                  |
+| Ty Lamontagne              |                                                                                                                      |
+| Zachary M                  |                                                                                                                      |
+| Mike Clark                 |                                                                                                                      |
+| [jeff woods](https://www.linkedin.com/in/jeff-woods-b53a6699/)                 | VP Software                                                                                                          |
+| Daniel Lynch               | Senior Cyber Security Advisor                                                                                        |
+| Trevor Orsztynowicz        |                                                                                                                      |
+| Eric                       |                                                                                                                      |
+| Cody Trew                  |                                                                                                                      |
+| Kole Barnes                |                                                                                                                      |
+| Christopher Reid           |                                                                                                                      |
+| William Bergmann Børresen  | William Bergmann Børresen                                                                                            |
+| [Ssmidge](https://ssmidge.xyz)                    |                                                                                                                      |
+| [Philippe Dépelteau](https://www.linkedin.com/in/depelteau/)         | IT & Cybersecurity Director                                                                                          |
+| Orin Johnson               |                                                                                                                      |
+| Bort                       | Cybersecurity Analyst                                                                                                |
+| [Christophe Langlois](https://ca.linkedin.com/in/christophe-langlois-0b7ba8197)        |                                                                                                                      |
+| Mike K                     |                                                                                                                      |
+| Katie H.                   | Senior Cybersecurity Consultant                                                                                      |
+| Adam White                 |                                                                                                                      |
+| Tyler Nicholson            |                                                                                                                      |
+| [Hugo Genesse](https://infosec.exchange/@svieg)               | Cybersecurity Researcher, VP-Conference @NorthSec                                                                    |
+| Jamie Bode                 |                                                                                                                      |
+| Olivier Laflamme           | Principal Consultant @RedRainSecurity & Senior Red Team Operator @F500 - CISSP, BSCP, OSCP, CRTO, CRTL, EWPTX, ECPPT |
+| [Ronan Scott](http://twitter.com/iiNovaCore)                |                                                                                                                      |
+| Tyler Austin               |                                                                                                                      |
+| Kevin2600                  |                                                                                                                      |
+| Jon alikakos               | J@nnny                                                                                                               |
+| Matt Moore                 | Mr.                                                                                                                  |
+| Ari                        |                                                                                                                      |
+| Lukas S.                   |                                                                                                                      |
+| Andrey Frol                | Software Developer                                                                                                   |
+| [Noah Clements](https://x.com/g3noff)              | Hacker                                                                                                               |
+| AnonMan                    | Web Dev                                                                                                              |
+| Malvin Din                 | Service Technician                                                                                                   |
+| Simon Bouchard             | CyberSecurity Analyst                                                                                                |
+| Andrew R.                  |                                                                                                                      |
+| [Evan Brundritt](http://evbrundritt.me)             | IT Specialist                                                                                                        |
+| [Olivier Caron](https://www.linkedin.com/in/olivier-cyber/)              | Cyber Security Specialist                                                                                            |
+| Haram Lee                  | random 11yro kid who wrote a full essay to Jonathan Wilkinson to save flipper                                        |
+| Pat Papineau               |                                                                                                                      |
+| Aiden                      |                                                                                                                      |
+| Andreanne Bergeron         | Cybersecurity Researcher                                                                                             |
+| Bib                        |                                                                                                                      |
+| James Renken               | Site Reliability Engineer                                                                                            |
+| Lucas Kovacs               |                                                                                                                      |
+| the hacker                 |                                                                                                                      |
+| Jesse Poikonen             | Mr                                                                                                                   |
+| Kienan S.                  |                                                                                                                      |
+| Anon                       | IT Service                                                                                                           |
+| Francis Ouellet            | Jedi Master                                                                                                          |
+| Amar Juneja                | Cybersecurity Consultant                                                                                             |
+| Mark Linton                |                                                                                                                      |
+| Scott Flowers              |                                                                                                                      |
+| Mike Burgener              | VP Cybersecurity, Vancity Savings Credit Union                                                                       |
 
 {{< goatcounter >}}
 
