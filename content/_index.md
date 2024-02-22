@@ -535,6 +535,254 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Hakim Sid'Ahmed              |                                               |
 | JollyMongrel                 | Researcher                                    |
 | Stéphane Beniak              |                                               |
+| [Josué Almeida](https://www.linkedin.com/in/josuealmeida/)                  | Software Developer                                                                             |
+| [Noah Bailey](https://mstdn.ca/@nbailey)                    |                                                                                                |
+| Nathan Van Ymeren              |                                                                                                |
+| Steve Brecht                   | Software Developer                                                                             |
+| caleb                          | dev                                                                                            |
+| Flederossi                     |                                                                                                |
+| Baker                          |                                                                                                |
+| Alex                           | Cyber Threat Hunter                                                                            |
+| Philippe Dugre                 | Cyber Security Analyst                                                                         |
+| Mark Strendin                  |                                                                                                |
+| [Ayush Singh](https://www.linkedin.com/in/haloboy777)                    | Technical Lead                                                                                 |
+| Eli Ward                       | SRE                                                                                            |
+| Liam Wilkinson                 | Software engineer                                                                              |
+| Chris T                        |                                                                                                |
+| AJ Magnusson                   |                                                                                                |
+| [Eric Lacasse](https://www.linkedin.com/in/ericlacasse/)                   | Senior Developer                                                                               |
+| [Ellen Teapo](https://github.com/asmallteapot)                   | Software engineer, Apple Canada (opinions are my own and not my employer’s)                    |
+| Zack H                         |                                                                                                |
+| olivia                         |                                                                                                |
+| Louis-André Labadie            | Product designer                                                                               |
+| Mark Johnson                   |                                                                                                |
+| Brian McKee                    | IT Manager                                                                                     |
+| Paula Tejano                   | IT Specialist                                                                                  |
+| [James Brunet](https://www.linkedin.com/in/james-brunet-73961a142/)                   | Instructor, Information Technology at Calreton University                                      |
+| Mark Lee                       | Mr.                                                                                            |
+| [Andre Courchesne](https://twitter.com/IndianaTux)               | Consultant, Inventor, Maker                                                                    |
+| Greg P                         |                                                                                                |
+| Colin Fletcher                 |                                                                                                |
+| [Simon Erlic](https://twitter.com/simonerlic)                    |                                                                                                |
+| Raphael Schmidt                | Mr.                                                                                            |
+| Edgar Wideman                  | Software Dev                                                                                   |
+| Patrick Gibson                 | Senior Software Developer                                                                      |
+| Nikos korompos                 | Senior software and systems engineer                                                           |
+| Tyler Montgomery               | Please don’t ban Flipper Zero or other similar devices!!!                                      |
+| Peter Soava                    |                                                                                                |
+| Evan Brynne                    | Software Engineer                                                                              |
+| [xdnc3](http://twitter.com/xdncolonthree)                          | the government doesnt know how technology works, and is using the flipper zero as a scapegoat  |
+| John Rampelt                   |                                                                                                |
+| IntangibleMatter               |                                                                                                |
+| cqb                            |                                                                                                |
+| Anonymous Canadian             | Software Engineer                                                                              |
+| [Michael McKay](https://www.linkedin.com/in/michaelrmckay/)                  | Commercial director                                                                            |
+| Aaron                          | Programmer                                                                                     |
+| Josh Nagy                      |                                                                                                |
+| [Charlie Hall](https://www.linkedin.com/in/charleskhall)                   |                                                                                                |
+| [Tomas](https://twitter.com/toomas_ps)                          |                                                                                                |
+| Steven Lachance                |                                                                                                |
+| Steve Scott                    | Information Security Professional                                                              |
+| Matt Moor                      |                                                                                                |
+| [Pascal Charest](https://www.linkedin.com/in/pascalcharest/)                 | Senior Engineering Manager, Trust & Security                                                   |
+| John Wynen                     |                                                                                                |
+| Julian Webb                    | CompTech, SysAdmin, NetAdmin                                                                   |
+| [Alexandre "alxbl" Beaulieu](https://segfault.me)     | Staff Software Developer                                                                       |
+| Lucas L.                       | Cybersecurity student                                                                          |
+| [Punit Daga](http://linkedin.pewnit.com)                     |                                                                                                |
+| Alex Richards                  |                                                                                                |
+| [Julien Richard](https://www.linkedin.com/in/julien-richard/)                 |                                                                                                |
+| [Ryan McAfee](https://www.linkedin.com/in/rmcafee7)                    | Principal DevOps Engineer                                                                      |
+| Maeve Sproule                  |                                                                                                |
+| Donald Beveridge               |                                                                                                |
+| Manas Gupta                    |                                                                                                |
+| Mario Di Bacco                 |                                                                                                |
+| Emma Segal-Grossman            |                                                                                                |
+| Mark Rose                      |                                                                                                |
+| [Tyler Fisher](https://www.linkedin.com/in/tylerjfisher/)                   | Senior Information Security Analyst                                                            |
+| Hogg                           | Mr.                                                                                            |
+| Karsten Johansson              | Sr. Information Security Advisor                                                               |
+| V                              |                                                                                                |
+| [Andrew Clapham](https://clapham.io)                 |                                                                                                |
+| [Francis Lacoste](https://www.linkedin.com/in/flacoste/)                | Cybersecurity manager                                                                          |
+| Ryan Bunker                    | Director of Product - Byos                                                                     |
+| Hugo Velazquez Perez           |                                                                                                |
+| Brendan Campbell               |                                                                                                |
+| Christopher Schafer            |                                                                                                |
+| Brad                           |                                                                                                |
+| J. Lauzon                      |                                                                                                |
+| Michael MacLeod                |                                                                                                |
+| Kent Richards                  | Software developer                                                                             |
+| James                          |                                                                                                |
+| Blaine Halee                   |                                                                                                |
+| Guillaume Couture-Levesque     |                                                                                                |
+| Ben Koshy                      | Technologist                                                                                   |
+| Bobby Mac                      | Savetheflipper                                                                                 |
+| Royce                          |                                                                                                |
+| [Jake Tivy](https://twitter.com/jakkuh_t)                      |                                                                                                |
+| Nim                            | Nim                                                                                            |
+| [Kal](https://www.youtube.com/@kalVR)                            |                                                                                                |
+| Travis Kay                     |                                                                                                |
+| [Vitaly Fomin](https://www.linkedin.com/in/shimbabu)                   | SE, Tech enthusiast                                                                            |
+| Matt Cutts                     |                                                                                                |
+| Jon M                          |                                                                                                |
+| Adam                           |                                                                                                |
+| Nick B                         |                                                                                                |
+| [Andrej Vasilj](https://www.linkedin.com/in/andrej-vasilj-148b34126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                  |                                                                                                |
+| [Vasile Marin](https://www.linkedin.com/in/vasile-marin-612324254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                   | Student in computer science                                                                    |
+| Kent Worsnop                   |                                                                                                |
+| Anonymous                      |                                                                                                |
+| Arnold T.                      |                                                                                                |
+| Brendan Ragan                  | Software Engineer                                                                              |
+| dork24                         |                                                                                                |
+| Samuel Hinkel                  |                                                                                                |
+| Antoine Turgeon                |                                                                                                |
+| Jake Evans                     | IT Specialist                                                                                  |
+| Chris Capobianco               | Team Lead at Arctic Wolf Networks                                                              |
+| Hriday Balachandran            | CISO and VP of Technology, DC Group                                                            |
+| Cedric M                       |                                                                                                |
+| [fxgn](https://fxgn.dev)                           | The tomato demon                                                                               |
+| Ryan West                      | Director of Infrastructure Engineering                                                         |
+| Akshay Joshi                   |                                                                                                |
+| Concerned Citizen              |                                                                                                |
+| Jonathan Sid                   | Jonathan                                                                                       |
+| Vivian Lee                     |                                                                                                |
+| Rudi Jubran                    |                                                                                                |
+| [Nathan Friend](https://nathanfriend.io)                  | Software Engineer                                                                              |
+| Mickael E                      | Consultant en securité informatique                                                            |
+| Dylan Beaulieu                 | IT technician                                                                                  |
+| Dh                             |                                                                                                |
+| Frank                          |                                                                                                |
+| [Sean Hodgins](http://twitter.com/idlehandsdev)                   |                                                                                                |
+| Radin Najafi                   |                                                                                                |
+| Andrzej Głuszak                |                                                                                                |
+| [Woongbin Kang](https://www.linkedin.com/in/wbkang/)                  |                                                                                                |
+| John Power                     |                                                                                                |
+| Martin S                       | Software Development Student                                                                   |
+| [Dan Scanlon](https://twitter.com/danscan)                    | CTO, Genesis XYZ, Inc.                                                                         |
+| Max Lee                        |                                                                                                |
+| Ryan Simmons                   |                                                                                                |
+| Ailo                           |                                                                                                |
+| jack                           | jnmd                                                                                           |
+| Bernardo Kuri                  |                                                                                                |
+| Behnoud Givehki                |                                                                                                |
+| Rajas Sambhare                 |                                                                                                |
+| [Austin Huang](https://austinhuang.me)                   | CS student, McGill University                                                                  |
+| Jade                           | Tech Enthusiast                                                                                |
+| Kyle Fox                       | DEFCON Furs Badge Lead                                                                         |
+| Thomas Gwynne-Timothy          | Engineer                                                                                       |
+| Evan Zaplachinski              | Cybersecurity student                                                                          |
+| Matt McKinnon                  |                                                                                                |
+| Vishal                         |                                                                                                |
+| Joel DeTeves                   |                                                                                                |
+| Jeremy                         |                                                                                                |
+| C G                            |                                                                                                |
+| Frank C                        | Security Consultant                                                                            |
+| Andre D                        |                                                                                                |
+| Stephen Bourne                 |                                                                                                |
+| Rtepet                         |                                                                                                |
+| J.Z                            | Researcher                                                                                     |
+| Peter Cai                      | Systems Software Developer                                                                     |
+| Kris Pucci                     |                                                                                                |
+| Usama S                        | AI Researcher                                                                                  |
+| Jeff L                         | Researcher                                                                                     |
+| Vanessa Henri                  | Cofounder, Cybersecurity Law Firm                                                              |
+| Bassam Moussa                  | Cybersecurity Researcher                                                                       |
+| Eric D.                        |                                                                                                |
+| Lys                            | Ms                                                                                             |
+| Vincent Mercier                |                                                                                                |
+| Jack Van                       |                                                                                                |
+| David Munoz                    |                                                                                                |
+| Jason Walron                   | Software Architect                                                                             |
+| James David                    |                                                                                                |
+| [Aleksi Sapon](http://github.com/ddos)                   | Software Developer                                                                             |
+| Daniel                         | Cybersecurity Student                                                                          |
+| Sakura H.                      |                                                                                                |
+| Geoff Denning                  |                                                                                                |
+| Igor Magun                     |                                                                                                |
+| Brandon D                      | Cybersecurity Student                                                                          |
+| Carl                           |                                                                                                |
+| Daniel S                       |                                                                                                |
+| James C                        | Security and ISP engineer                                                                      |
+| NetCat                         | Security Analyst                                                                               |
+| Hantatu Bujklaĉ               | Sro.                                                                                           |
+| Joshua Novak                   |                                                                                                |
+| [Michael Coulter](https://hachyderm.io/@mjc)                |                                                                                                |
+| Evan M                         |                                                                                                |
+| Harsh Makwana                  |                                                                                                |
+| Anthony D                      |                                                                                                |
+| Nabil                          |                                                                                                |
+| Ezra Lazar                     | Software Developer                                                                             |
+| Alexandra R                    |                                                                                                |
+| B Bauman                       |                                                                                                |
+| Joni Virtanen                  |                                                                                                |
+| [Himanshu Anand](https://twitter.com/anand_himanshu)                 | Security researcher                                                                            |
+| Straithe                       |                                                                                                |
+| Dunc S                         |                                                                                                |
+| Mark Jenkins                   | Information technologist and hackerspace organizer                                             |
+| Kamache                        |                                                                                                |
+| Adrian                         |                                                                                                |
+| [0xless](https://lessonsec.com)                         |                                                                                                |
+| Sean Scrivener                 | Senior Security Analyst and Lead                                                               |
+| Ovidiu E                       | Ovidiu E Ro                                                                                    |
+| Martin Herfurt                 | IT-Security Researcher                                                                         |
+| Kekko                          |                                                                                                |
+| [Tim Perry](https://tim.fyi/)                      |                                                                                                |
+| Cem Usta                       |                                                                                                |
+| Björn Hansson                  | Bjorn                                                                                          |
+| Jean Snyman                    | Security Research Engineer                                                                     |
+| James Christopher Wise         | Hobbyist programmer                                                                            |
+| David Jones                    | Data Steward                                                                                   |
+| Christian Bourgeois            | IT Specialist, Cybersecurity learner                                                           |
+| Seth M                         |                                                                                                |
+| [Logan MacLaren](https://linkedin.com/in/loganmaclaren)                 | Cybersecurity engineer                                                                         |
+| Egor Egorov                    |                                                                                                |
+| Trevor Baker                   | server Administrator                                                                           |
+| Zak Zaini                      | Product Security Architect                                                                     |
+| Miguel                         |                                                                                                |
+| Gabriel Theuws                 | Développeur d'applications                                                                     |
+| Don Johnson                    | Security Engineer                                                                              |
+| Bram                           | CTO                                                                                            |
+| [ERIC PARENT](https://www.linkedin.com/in/eparent/)                    | CEO EVA Technologies                                                                           |
+| quantum_ghost                  |                                                                                                |
+| Elijah Reale                   |                                                                                                |
+| Tim King                       | Cyber Researcher & Educator                                                                    |
+| Ilya Yatsenko                  | Student                                                                                        |
+| Krzysztof Hajdamowicz          | Mr                                                                                             |
+| Nathan Einwechter              | Sr. Director, Security Research                                                                |
+| [Jeff Courteau](https://jeffcourteau.com)                  | Architecte Réseau                                                                              |
+| Pierre-Luc Auclair             | Développeur                                                                                    |
+| Jean-Christophe Giguere-Moreau | Conseiller Cybersecurite                                                                       |
+| Alexandre Boily                | Spécialiste DevOps                                                                             |
+| [Alex Major](https://www.linkedin.com/in/lexmajor)                     | Professionnel en Cybersécurité                                                                 |
+| Xavier A                       |                                                                                                |
+| St-Louis-Hebert                |                                                                                                |
+| Yannick Gagnon                 | Conseiller en sécurité de l'information                                                        |
+| Gaëtan Trellu                  | Solution Architect                                                                             |
+| Pierre-Marc                    |                                                                                                |
+| Aramis Veillette               |                                                                                                |
+| Anthony St-Pierre              | IT operations manager                                                                          |
+| Francis G St-Pierre            | Analyste en cybersécurité                                                                      |
+| Andre Brissette                | CISO                                                                                           |
+| Nicolas Deschenes              | ingénieur de projet                                                                            |
+| Kevin Tremblay                 | Senior Cyber Security Consultant                                                               |
+| [Jean-Philippe Jodoin](https://ca.linkedin.com/in/jeanphilippejodoin)           | Développeur logiciel                                                                           |
+| Nicolas R.                     | Software Engineer                                                                              |
+| Ludovic Bédard                 |                                                                                                |
+| [Mathieu Mitchell](https://www.linkedin.com/in/mathieumitchell/)               |                                                                                                |
+| Alexandre Charron              |                                                                                                |
+| Philippe Goudreau              | Architecte infrastructure                                                                      |
+| Simon Boyer                    |                                                                                                |
+| Olivier Martin                 |                                                                                                |
+| bauve                          |                                                                                                |
+| Blank                          | Pentester                                                                                      |
+| [Emilie Rollandin](https://www.linkedin.com/in/emilie-rollandin-a8a5831a6/)               | Senior Software Developer                                                                      |
+| Mathieu Therrien               | VA2IO                                                                                          |
+| Benoit Larocque                |                                                                                                |
+| Olivier Lemoine                |                                                                                                |
+| Glenn Thibault                 | Analyste IT                                                                                    |
+| Alex Cormier                   |                                                                                                |
+| Tom R                          | Technical Engineering Manager                                                                  |
 
 {{< goatcounter >}}
 
