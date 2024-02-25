@@ -783,6 +783,175 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Glenn Thibault                 | Analyste IT                                                                                    |
 | Alex Cormier                   |                                                                                                |
 | Tom R                          | Technical Engineering Manager                                                                  |
+| Éli Hamel                 |                                                  |
+| [Emilie Rollandin](https://www.linkedin.com/in/emilie-rollandin-a8a5831a6/)          | Senior Software Developer                        |
+| Xavier Groleau            | Développeur embarqué                             |
+| Pascal L.                 |                                                  |
+| [Arnaud Landry](https://ca.linkedin.com/in/arnaudlandry)             | Consultant en cybersécurité                      |
+| Cynthia L. McLaughlin     | Software Developer                               |
+| S. Bélanger               | Ingénieur en cybersécurité OT                    |
+| Mathieu R.                |                                                  |
+| Alex Tardif               | Systems Engineer, Palo Alto Networks             |
+| Walan Brousseau           | Étudiant en Génie Informatique                   |
+| Étienne Sadio             |                                                  |
+| Franck Glebocki           | Architecte Securité                              |
+| Javier Escobar de la Paz  | Conseiller principal, sécurité de l'information  |
+| Alexandre Letourneau      | Consultant Cybersecurité                         |
+| Pierre Métras             | Bidouilleur amateur                              |
+| Maxime S.                 | Développeur                                      |
+| [Danny Boivin](https://www.linkedin.com/in/danny-boivin-80ba2b32/)              | Analyste en Cybersécurité                        |
+| Jules ROTILIO             |                                                  |
+| fbreton                   | citoyen du monde                                 |
+| Danny S.                  |                                                  |
+| David Cohen               | Consultant Technologique                         |
+| Patrick Hamel             | Systems Engineering Manager                      |
+| Félix Quenneville         | Consultant en cybersecurité                      |
+| h3xit                     | InfoSec Tech Lead                                |
+| Carl Patenaude-Poulin     | Développeur logiciel                             |
+| Dominic Villeneuve        | System administrator / cybersecurity analyst     |
+| Maxime Beauchamp          |                                                  |
+| Romain                    | Cybersecurity Analyst                            |
+| JcB                       | Mr.                                              |
+| Claude Roy                | Claude                                           |
+| Hernandez Pierre          | Conseiller Cyber-sécurité                        |
+| Raphael Lanouette         |                                                  |
+| Jean-Michel plourde       |                                                  |
+| [Mathieu Lachaîne](http://www.sentiom.com)          | Chef de la technologie                           |
+| Jeff Gorchynski                  |                                                                  |
+| Constantin Buruiana              | Software Developer                                               |
+| PRB Hughes                       |                                                                  |
+| Boris C                          | Tech Leader                                                      |
+| Mansour                          |                                                                  |
+| Devon                            | Senior Engineer                                                  |
+| Hussein Jafferjees               |                                                                  |
+| Darren Yung                      |                                                                  |
+| Artur L.                         |                                                                  |
+| Brandon Marshall                 | Offensive Security Researcher                                    |
+| [Frederic Bilodeau](https://www.linkedin.com/in/frederic-bilodeau/)                | Student                                                          |
+| Sven Neuhaus                     | Senior security engineer                                         |
+| Cass O                           | Information Security Architect                                   |
+| Aaron M                          | Software Developer                                               |
+| Charles                          | Cybersecurity Expert                                             |
+| David Roizenman                  | Software Engineer                                                |
+| Joseph T.                        |                                                                  |
+| Benjamin Miller                  | Cybersecurity professional                                       |
+| Ryan Higgins                     | Lead Systems Analyst                                             |
+| Todd Schertzing                  | Cyber Security Consultant                                        |
+| Fred Ladouceur                   | Offensive Security Consultant                                    |
+| Mohammed Anush                   | Red Teamer                                                       |
+| Dan Forget                       | Technical Solutions Consultant                                   |
+| Andre S                          |                                                                  |
+| Zack Hatfield                    |                                                                  |
+| Tanner Marks                     |                                                                  |
+| David L.                         |                                                                  |
+| Susie                            |                                                                  |
+| NikolayM                         | Software developer                                               |
+| Gildas Cotomale                  |                                                                  |
+| Johan                            |                                                                  |
+| Daryl                            |                                                                  |
+| Gregory Huard                    |                                                                  |
+| Ray Otis                         |                                                                  |
+| Yannick F.                       |                                                                  |
+| Stuart Seeley                    |                                                                  |
+| Sooshi                           |                                                                  |
+| Jean-Francois Paré               | IT Manager                                                       |
+| skimie2                          |                                                                  |
+| Fred                             | SME Head of Security                                             |
+| Amir Ab                          | Entrepreneur/ Robotics Research and Development startup company  |
+| mh                               |                                                                  |
+| Darren Bell (Loudmouth Security) | Technical Project Manager                                        |
+| Brennan C                        |                                                                  |
+| Eric                             |                                                                  |
+| Soki The Rexouium                | Soki The Rexouium                                                |
+| [Louise Powell](https://www.linkedin.com/in/louise-cb-powell/)                    | Penetration Tester                                               |
+| Pierre-Louis Proulx              | Professionnel en cybersécurité                                   |
+| Ryan Torrance                    |                                                                  |
+| [Pier-Luc Maltais (ramsexy)](https://www.linkedin.com/in/plmaltais/)       | Bug bounty hunter                                                |
+| Antoine                          |                                                                  |
+| Mason                            |                                                                  |
+| Nicolai strukoff                 | Mr                                                               |
+| Marius                           | IT Admin                                                         |
+| Bryan Jeal                       |                                                                  |
+| [Harry Elmokyan](http://twitter.com/@HariElmo)                   |                                                                  |
+| Julien Duranleau                 |                                                                  |
+| Lucie Baillargeon                |                                                                  |
+| John Gosset                      | Software Development Manager                                     |
+| Alexis                           | Analyst developer                                                |
+| Mark Rohen                       |                                                                  |
+| [Martin Renaud, CISSP](https://www.linkedin.com/in/martin-renaud/)             | Martin Renaud, CISSP                                             |
+| [François St-Arnaud ](https://www.linkedin.com/in/fstarnaud)              | Embedded Cyber Security Specialist                               |
+| [Sam Curry](https://twitter.com/samwcyo)                        | Security Researcher                                              |
+| [Jakub B](https://www.linkedin.com/in/jakub-batycki/)                       |                                                                  |
+| Rivers                           |                                                                  |
+| Simon Bernier                    | Security Developer                                               |
+| Jason Y                          |                                                                  |
+| Aaron hayes                      |                                                                  |
+| Jonathan Couture                 |                                                                  |
+| Nick Waterman                    | Senior Technical Director, Security Researcher                   |
+| Brad Cees                        |                                                                  |
+| V.Lessard                        |                                                                  |
+| James Gourdine                   | Anonymous                                                        |
+| [Talesh Seeparsan](https://www.linkedin.com/in/talesh/)                 | Founder Bit79.ca                                                 |
+| Abdulfatah                       |                                                                  |
+| Jimmy Ups                        | Hobbyist                                                         |
+| Michael S                        |                                                                  |
+| Denis                            |                                                                  |
+| Nicky Dev                        | Bug Bounty Hunter                                                |
+| Brock L                          |                                                                  |
+| Samuel Plante                    | Pentester                                                        |
+| [Johnathan Drozdowski](https://www.linkedin.com/in/johnathandrozdowski/)             | Senior Red Team Specialist, Canada Life                          |
+| Sebastien R.                     | Information Security Analyst                                     |
+| [K4YT3X](https://github.com/k4yt3x/)                           | Security Researcher                                              |
+| Teodor P.                        |                                                                  |
+| Kyle Creelman                    |                                                                  |
+| Mumble                           | Happy Feet                                                       |
+| Josh Holden                      |                                                                  |
+| The Area 51 Rider                |                                                                  |
+| Danny Tran                       | Software Developer                                               |
+| Dan H.                           |                                                                  |
+| Artem                            |                                                                  |
+| Ryan C                           | AppSec engineer / researcher                                     |
+| [Alex Dow](https://www.linkedin.com/in/alexjdow/)                         | Perpetual Learner                                                |
+| Phrancoua                        | Cloud security consultant                                        |
+| Shannon Cossette                 |                                                                  |
+| Cynthia Bruce-Marzenska          | Ms.                                                              |
+| Wojciech Pilch                   |                                                                  |
+|                                  |                                                                  |
+| Ron Mélotte                      | Lecturer in Cyber Security                                       |
+| Joey Lord                        |                                                                  |
+| Hugo                             | Fullstack Web Developer                                          |
+| [Christoph Hebeisen](https://www.linkedin.com/in/christophhebeisen/)               | Director, Security Research                                      |
+| David Lagacé                     |                                                                  |
+| [Daylen](https://www.linkedin.com/in/daylen-sawchuk)                           | Cybersecurity student                                            |
+| [William Corcoran](http://quantumeye-security.com)                 | Penetration Tester                                               |
+| Kyle Loree                       |                                                                  |
+| Shadowharvy                      |                                                                  |
+| Paul Hart                        |                                                                  |
+| [Alaam Amershi](https://www.linkedin.com/in/alaam-amershi-2157a1177/)                    | Mr.                                                              |
+| Ian Phillipchuk                  |                                                                  |
+| Latex                            |                                                                  |
+| [Edmon Abdul Nur](https://ca.linkedin.com/in/moni11811)                  |                                                                  |
+| pestobest                        | Computer scientist                                               |
+| Joanna R                         |                                                                  |
+| enni                             |                                                                  |
+| [Jesse Emond](https://www.linkedin.com/in/jesseemond?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                      | Senior Software Engineer                                         |
+| Roman                            |                                                                  |
+| [Franck Jeannot](https://www.linkedin.com/in/franckjeannot/)                   | Cybersecurity Specialist                                         |
+| Dominic Villeneuve               | Cybersecurity analyst                                            |
+| Phil Thibault                    | Manager, Cyber Security Architecture                             |
+| Dan                              | Tinker, tech enthusiast, airplane mechanic, dad                  |
+| Hunter david Nixon               | Mr                                                               |
+| Jasmin Pare                      | Infrastructure Architect                                         |
+| David Laganière                  | P.Eng., ing.                                                     |
+| [Gagan Jattana](https://www.linkedin.com/in/gaganjattana/)                    |                                                                  |
+| Chet N.                          | Security Analyst                                                 |
+| Kevin Gagnon                     | Enseignant                                                       |
+| Will                             |                                                                  |
+| Rob Kerr                         |                                                                  |
+| Rob Kerr                         | Web Developer                                                    |
+| Nico                             | LoudSoftware                                                     |
+| [Nicolas Znamenski](https://www.linkedin.com/in/nicolas-znamenski/)                | Cybersecurity Consultant                                         |
+| Mark Zuzarte                     | Sr. Director - Application & Offensive Security - BDO Digital    |
 
 {{< goatcounter >}}
 
