@@ -21,6 +21,11 @@ image = "img/vapor.webp"
 
 [Find and contact your MP](https://www.ourcommons.ca/Members/en/search)
 
+## Media Coverage
+
+[CBC: Banning hacking devices won't prevent car thefts, security experts say](https://www.cbc.ca/news/politics/car-theft-hacking-1.7128312)
+
+## The Letter
 
 Vehicle theft is an issue that affects us all collectively. As cybersecurity and technology professionals, we recognize the importance of acting rapidly to reduce its impact on Canadians. That being said, we believe the federal government’s [proposal](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html), particularly the prohibition of security research tools, is ill-advised, overbroad and most importantly, will be counterproductive.
 
@@ -48,6 +53,15 @@ Because of the arbitrary nature of such a policy, we believe the judiciary syste
 [Signer](https://docs.google.com/forms/d/e/1FAIpQLSfPeKDnHw2oE713QNTh5rakQ97zkGglRCezVgIhoFqaG-bP5A/viewform)
 
 [Trouver et contacter votre député](https://www.ourcommons.ca/Members/fr/search)
+
+## Couverture Médiatique
+
+[Le Téléjournal avec Céline Galipeau - Le 28 février 2024 - 40m40sec](https://ici.radio-canada.ca/info/videos/18-865561/telejournal-avec-celine-galipeau)
+
+[Radio-Canada: Ottawa fait fausse route en bannissant les dispositifs de piratage, selon des experts](https://ici.radio-canada.ca/rci/fr/nouvelle/2052697/ottawa-vols-vehicules-dispositifs-piratage-securite)
+
+## Lettre
+
 
 ## Vols de véhicules - Les véhicules non sécurisés devraient être interdits, pas les outils de sécurité comme le Flipper Zero
 
@@ -952,6 +966,128 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Nico                             | LoudSoftware                                                     |
 | [Nicolas Znamenski](https://www.linkedin.com/in/nicolas-znamenski/)                | Cybersecurity Consultant                                         |
 | Mark Zuzarte                     | Sr. Director - Application & Offensive Security - BDO Digital    |
+| Leon                          |                                                                      |
+| Alex Simpson                  | Electronics Techinican                                               |
+| A.J. Potrebka                 | Founder, Campfire Technology                                         |
+| Grabitel                      |                                                                      |
+| [Amanjeev Sethi](https://amanjeev.com/)                | Software Engineer                                                    |
+| Barry                         |                                                                      |
+| Mahira Mohtashami             |                                                                      |
+| Pyton                         | Security Enthusiast                                                  |
+| D.                            |                                                                      |
+| Ollie B                       |                                                                      |
+| Guillaume                     |                                                                      |
+| [Gabriel Guzman](https://www.linkedin.com/in/gabeguz/)                | Encourager of Awesome                                                |
+| Justin Fangrad                | Senior Frontend Engineer                                             |
+| [Alaam Amershi](https://www.linkedin.com/in/alaam-amershi-2157a1177/)                 | Software Developer and Cybersecurity Student                         |
+| Rusty Fisher                  |                                                                      |
+| [Zacharia Ellaham](https://www.linkedin.com/in/zachariaellaham/)              | Penetration tester                                                   |
+| Guy Moïse                     | Devops                                                               |
+| Hassen Jammali                | Director, Cybersecurity and Compliance                               |
+| Jamie Cannon                  |                                                                      |
+| Laurent D.                    | Cybersecurity Student                                                |
+| S Campbell                    | Mr                                                                   |
+| Mitra Mirhassani              | Co director of SHIELD Automotive Cybersecurity Center of Excellence  |
+| Richard Martin                |                                                                      |
+| P-M                           |                                                                      |
+| Rob J                         | no                                                                   |
+| Anastasia Campbell            | Student IT & Cybersecurity Analyst                                   |
+| Toby McGuire                  |                                                                      |
+| Dr. Anthony Lai               | Director & Researcher, VXRL                                          |
+| Gregory Morton                | Information Security Officer                                         |
+| PAP                           | Mr.                                                                  |
+| H0e4a0r1t                     |                                                                      |
+| Thomas Bork                   |                                                                      |
+| Zaynab B                      |                                                                      |
+| Alex D                        |                                                                      |
+| [Vincent Yiu](https://x.com/vysecurity)                   | Director                                                             |
+| [Jade Null](https://linkedin.com/in/glitchwitch)                     | Principal Security Consultant @ GlitchSecure                         |
+| Alex                          |                                                                      |
+| Myriam Beauchamp              |                                                                      |
+| Gabriel Tessier               | Cybersecurity manager                                                |
+| Erin T                        |                                                                      |
+| K.J. Wight                    | Red Teamer/Cybersecurity Professional                                |
+| Antoine Leblond               |                                                                      |
+| [Mark DeBaets](https://www.linkedin.com/in/mark-debaets-9a046a13b/)                  |                                                                      |
+| [Brnz2Thnk](https://defcon.social/@brnz2thnk)                     | Activist Wannabe                                                     |
+| Alex Zvaniga                  |                                                                      |
+| Steven                        | Software dev                                                         |
+| Baptiste P                    | Senior Software Developer                                            |
+| Steven Hamer                  | B.sc Physiques                                                       |
+| Travis Stewart                |                                                                      |
+| Anton Ad                      |                                                                      |
+| [Ueric Melo](https://www.linkedin.com/in/ueric-melo/)                    | Security Awareness Manager                                           |
+| Guy Simard                    |                                                                      |
+| Louis-Olivier St-Laurent      | Software developer                                                   |
+| [Alain Lefebvre](https://www.linkedin.com/in/allefebvre/)                | Cybersecurity Consultant                                             |
+| [Jason H.](https://maplebacon.org/authors/argonaut0/)                      | Software Engineer Security Analyst                                   |
+| Nicolas Girot                 | Tech Lead Developer                                                  |
+| Naomi Gilbert                 |                                                                      |
+| [Mathieu Chevalier](https://www.linkedin.com/in/mathieu-c-aa797020/)             | Principal Security Architect, Genetec                                |
+| [Thib3113](https://www.linkedin.com/in/thib3113/)                      | Software Developer                                                   |
+| [Brad "RenderMan" Haines](https://x.com/ihackedwhat)       |                                                                      |
+| [Nicole Schwartz](https://www.linkedin.com/in/amazonv/)               |                                                                      |
+| Andrew Suter                  |                                                                      |
+| Joe Bowser                    |                                                                      |
+| [Omkhar Arasaratnam](https://www.linkedin.com/in/omkhar)            | General Manager, OpenSSF                                             |
+| Ash Mytchwall                 |                                                                      |
+| Shira Wolven                  |                                                                      |
+| [Kanstantsin Bucha](https://www.linkedin.com/in/kanstantsinbucha/)             |                                                                      |
+| [Norbert Griffin](https://www.linkedin.com/in/norbertgriffin/)               | Penetration Tester                                                   |
+| [Dustin Heywood](https://www.linkedin.com/in/evilmog)                | Chief Architect of X-Force                                           |
+| Gr@ve_Rose                    |                                                                      |
+| MichaelL                      |                                                                      |
+| Pierre Desrochers             | Principal Technical Analyst                                          |
+| Jacquelin Martineau-Rousseau  | Cybersecurity Consultant                                             |
+| Brandon Eagan                 |                                                                      |
+| Brendan F                     | Mr                                                                   |
+| Sylvain Kirouac               |                                                                      |
+| [Jonathan Chery](https://www.linkedin.com/in/jonathan-chery-b039742b/)                | CyberSecurity manager                                                |
+| [Karthik Kumar Viswanathan](https://www.twitter.com/_vkaku)     |                                                                      |
+| Matthew Peters                |                                                                      |
+| Léonard L Gagnon              | Concepteur logiciel embarqué                                         |
+| Nicolas Boulet                |                                                                      |
+| Sébastien Lapointe            | CEO Cyberlaps                                                        |
+| Clément Cruchet               | Technical Team Lead                                                  |
+| [Pier-Luc Brault](https://plbrault.com/)               | Enseignant en informatique                                           |
+| Jean Narrache                 |                                                                      |
+| Jeff                          | IT project manager                                                   |
+| Pascal Roy                    | Software developer                                                   |
+| Law                           |                                                                      |
+| Poinsard A.                   |                                                                      |
+| Alexandre Huppé               | Enseignant en informatique                                           |
+| Ahmed Hadjeres                | CTO @ oamo.io                                                        |
+| PAP                           |                                                                      |
+| Mathieu G                     | Director, Security Fusion Center                                     |
+| Philippe Lacroix              |                                                                      |
+| Guillaume Filion              | Analyste en informatique                                             |
+| MA                            | consultant en cyber sécurité                                         |
+| Richard Laniel                | Développeur de logiciels                                             |
+| Emmanuel Durand               |                                                                      |
+| Etienne Boisvenue             | Data Scientist, security practitioner                                |
+| SaveFlipper                   |                                                                      |
+| Steve Rainville               |                                                                      |
+| Steve Mc Nicoll               | Hobbyists                                                            |
+| Patrick CM                    |                                                                      |
+| Christian Paradis             | Senior Software Developer                                            |
+| Guillaume Bacon               |                                                                      |
+| Lucas M                       |                                                                      |
+| Maxime Bédard                 | Software Engineer                                                    |
+| Anthony Cyr                   | Consultant Cyber                                                     |
+| [Michael Labrecque](https://www.linkedin.com/in/michael-labrecque-4418551b6/)             | Analyst - Automation / Web Developper                                |
+| Patrick Pilotte               | Operational Security Team Leader                                     |
+| [Jacques Sauve](https://www.linkedin.com/in/jacquessauve/)                 | Consultant en cybersécurité                                          |
+| Steve B                       |                                                                      |
+| [Jean-Philippe Décarie-Mathieu](https://www.jpdm.org/) | Lead Cybersecurity Analyst // High tech low life dude                |
+| Kevin Poulin                  |                                                                      |
+| Vincent Chartier              | Ingénieur informatique                                               |
+| Claude Dupont                 |                                                                      |
+| Jimmy Bell                    | CPI, Conseiller en tests d'intrusion                                 |
+| P.A.P.                        |                                                                      |
+| Pierre Jodoin                 |                                                                      |
+
+
+
 
 {{< goatcounter >}}
 
