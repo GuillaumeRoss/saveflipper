@@ -1085,7 +1085,108 @@ Si vous êtes d'accord avec cette lettre, veuillez [la signer](https://docs.goog
 | Jimmy Bell                    | CPI, Conseiller en tests d'intrusion                                 |
 | P.A.P.                        |                                                                      |
 | Pierre Jodoin                 |                                                                      |
-
+| Augusto sosa escalada   | IT                                        |
+| [Karan Aditya Ghoshal](https://twitter.com/0xDISREL)    | Cyber Threat Intelligence Analyst         |
+| Alexy Mantha            |                                           |
+| Max Leblanc             |                                           |
+| [Richard Reiner](https://linkedin.com/in/richardreiner)          | Managing Partner                          |
+| Eugen C.                |                                           |
+| JC Dansereau            | Software engineer                         |
+| Jeff Cliff              | Free Software Advocate                    |
+| [Hariz Shirazi](https://twitter.com/bomberfish77)           | iOS jailbreak developer, tinkerer         |
+| Nolan                   |                                           |
+| Matthieu                |                                           |
+| [Pedro Miguel Sanchez](https://www.linkedin.com/in/pedromiguelsanchezsanchez/)    | Researcher                                |
+| Kaitlyn                 |                                           |
+| Jonathan                |                                           |
+| Wade Klaver             | Sysadmin and Security Professional        |
+| Ivy Fan-Chiang          |                                           |
+| [Steven Deobald](https://fantastic.earth/@deobald)          | CEO                                       |
+| Brendan Dery            |                                           |
+| Chris                   | Staff Software Engineer                   |
+| Ryan Campbell           |                                           |
+| DeadlyFalcor            |                                           |
+| Ken Walters             | Mr.                                       |
+| M M                     | Software Developer                        |
+| Kurtis G                | Software Developer                        |
+| [Sid Choudhuri](https://www.linkedin.com/in/sid-choudhuri)           | Head of IT, Greenpeace Canada             |
+| Peyre Pellissier        | Mr                                        |
+| [Mickael Lavroff](https://www.linkedin.com/in/mlavroff/)         | Cybersec Expert                           |
+| Ben Z.                  |                                           |
+| [Alex](https://ddystopian.lol/)                    | Flipper Fan                               |
+| [Jonathan G](https://www.linkedin.com/in/jonathangervais/)              | Account Executive - Cybersecurity         |
+| Rob Masse               |                                           |
+| Nicolas Bouliane        | network software engineering at CoreWeave |
+| Amy Gilson              | Information Security Manager              |
+| VRM                     |                                           |
+| Vicky Diamantopoulos    | President - Normalex Inc.                 |
+| Mark M                  | Cybersecurity Professional                |
+| No.  Thanks.            |                                           |
+| Matthew Armitage        |                                           |
+| Emilie St-Pierre        |                                           |
+| [Gabriel](http://www.youtube.com/@tridxmusic)                 |                                           |
+| David Gagnon            |                                           |
+| Marc Godard             |                                           |
+| Dakota                  |                                           |
+| Shinobi Maikan          | Security enthusiast                       |
+| P. Ménard               | Cybersecurity Director                    |
+| Martin Lemay            | Cybersecurity Executive/Coach/Mentor      |
+| [Reid Hurlburt](https://www.linkedin.com/in/reid-hurlburt/)           |                                           |
+| CG                      |                                           |
+| Shane S                 | Penetration Tester                        |
+| Jms                     |                                           |
+| Miah Johnson            | Server Operator                           |
+| Adam Barnett            |                                           |
+| Brandon                 |                                           |
+| corbin carroll          |                                           |
+| [Stéphane Graber](https://hachyderm.io/@stgraber@hachyderm.io)         | Owner, Zabbly                             |
+| Francis Breault         |                                           |
+| Mitch Breton            | Security Analyst                          |
+| Christian               |                                           |
+| [David Bilodeau](https://www.linkedin.com/in/davidbilodeau1/)          | Penetration Tester                        |
+| Conor                   |                                           |
+| [Evan Pratten](https://ewpratten.com)            |                                           |
+| Étienne                 |                                           |
+| [Aaron MacSween](https://social.cryptography.dog/@ansuz)          | security researcher                       |
+| Dominic Villeneuve      | Director cybersecurity                    |
+| Jordan V                | Software Developer                        |
+| Francis H               | Cyber-Security Specialist                 |
+| Richard Perritt         | Technology Professional                   |
+| Elias Turner            | Full Stack Software Developer             |
+| Ismael Filali-mouhim    | Cybersecurity analyst                     |
+| Gerry Corcoran          |                                           |
+| [Tom](http://twitter.com/nyx__o)                     | Security researcher                       |
+| Jack Perry, CISSP       | Jack Perry, CISSP                         |
+| Hypernova               |                                           |
+| DH                      |                                           |
+| [Chantell Petrell](https://www.linkedin.com/in/chantellpetrell)        |                                           |
+| James Bray              | Software Developer                        |
+| Edgar                   | Security Engineer                         |
+| Farhad Davudov          |                                           |
+| Erik.P                  | Tech enthusiast                           |
+| Ali Kerman              |                                           |
+| Zach Schneider          | IT Security Consultant                    |
+| Marco D.                |                                           |
+| Pierre Jodoin           |                                           |
+| G. Cliche               |                                           |
+| Tchepikoff Eric         |                                           |
+| Jean-Philippe Gauvin    |                                           |
+| Nicolas D.              | Security analyst                          |
+| Gabriel St-Laurent      |                                           |
+| Raphaël Jobin           | Analyste en cybersécurité                 |
+| Erwann Pondaven         | Analyste principal GRC                    |
+| Marc Lachapelle         |                                           |
+| Yves Desharnais         | Consultant en sécurité de l'information   |
+| Sydney                  | Ms.                                       |
+| Patrick Roy             | Consultant en sécurité de l'information   |
+| Yan Migneault           | Recherchiste en CyberSecurité             |
+| Phil                    |                                           |
+| [Frédéric Lemieux-Samson](https://www.linkedin.com/in/fredericlemieuxsamson) | Dans le monde vaste des TI                |
+| [Jonathan Lamarre](http://www.linkedin.com/in/lamarrejonathan)        | Développeur logiciel sénior               |
+| Anne-Marie Faber        | CMO                                       |
+| Marc B. Sauro           |                                           |
+| [Marc Andrew Landles](https://www.linkedin.com/in/marc-andrew-landles/)     | Lead Developer                            |
+| Thibault Barthelet      | Data engineer                             |
 
 
 
