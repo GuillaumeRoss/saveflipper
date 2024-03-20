@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Save Flipper</title>
+    <link>https://saveflipper.ca/</link>
+    <description>Recent content on Save Flipper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©Creative Commons</copyright><atom:link href="https://saveflipper.ca/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
